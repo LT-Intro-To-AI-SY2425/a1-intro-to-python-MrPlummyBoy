@@ -14,10 +14,12 @@ Mr. Berg will look at all your files to determine what you have completed.  If t
 
 1. What is your initial thoughts about the python programming language?
 
-
+    It seems somewhat similar to java but it also seems more like the english language than java
 
 2. Describe some similarities and differences that you found between python and other programming languages you have used in the past?
 
-
+    It seems a bit similar to java but some of the lines of code can be simpler in python
 
 3. What are some things that you learned through this assignment?
+
+    I learned how to use Ai to help me learn python
